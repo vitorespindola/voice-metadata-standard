@@ -1,0 +1,7 @@
+sudo: false
+language: node_js
+before_script:
+- npm install ajv-cli
+- PATH="./node_modules/.bin/:$PATH"
+script:
+- ajv compile -s callmetadata.schema.json
