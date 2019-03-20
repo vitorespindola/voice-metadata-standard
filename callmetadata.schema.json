@@ -175,7 +175,7 @@
                 }
             },
             "callRecords": {
-                "type": "array",
+                "type": 'array',
                 "items": {
                     "$ref": "#/definitions/callRecord"
                 },
