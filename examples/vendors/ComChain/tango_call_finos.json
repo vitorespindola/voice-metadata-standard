@@ -1,12 +1,12 @@
 {
     "callRecordType": "Dialtone",
-    "callStartTime": "2018-10-16T05:59:30.108-0500",
+    "callStartTime": "2018-10-16T10:59:30+00:00",
     "callDirection": "outgoing",
     "callRecords": [
         {
             "universalCallID": "bd7280f0-975e-4ae7-9037-320b9b11d6f8",
-            "startTime": "2018-10-16T05:59:30.108-0500",
-            "endTime": "2018-10-16T05:59:52.040-0500",
+            "startTime": "2018-10-16T10:59:30+00:00",
+            "endTime": "2018-10-16T10:59:30+00:00",
             "offset": "0",
             "duration": 4,
             "participants": [
