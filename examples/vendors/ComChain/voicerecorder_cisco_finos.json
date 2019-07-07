@@ -1,0 +1,30 @@
+{
+    "callRecordType": "Dialtone",
+    "callStartTime": "2018-10-15T22:51:07+00:00",
+    "callRecords": [
+        {
+            "universalCallID": "3019-SEP000C293D54DF-30975651",
+            "startTime": "2018-10-15T22:51:07+00:00",
+            "endTime": "2018-10-15T22:51:11+00:00",
+            "offset": "0",
+            "duration": 4,
+            "participants": [
+                { 
+                    "address": "3019"
+                }
+            ]
+        }
+    ],
+    "recordingFile" : {
+        "fileName": "cd1a2ef5-d0cc-11e8-9955-000c29dd7443_(20181015225107784).wav",
+        "checksum": {
+            "type": "SHA-256",
+            "hash": "ffb84e7a2259d638bf3eab243f8e93f2d329ee140b20efaa7a2447bd1722853c"
+        }
+    },
+    "vendor": {
+        "type":"voicerecorder",
+        "profileid":"SEP000C293D54DF",
+        "archivedate":"2023-10-15"
+    }
+}
