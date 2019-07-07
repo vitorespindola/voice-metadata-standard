@@ -9,13 +9,13 @@
             "offset": "0",
             "duration": 4,
             "participants": [
-                { 
+                {
                     "address": "3019"
                 }
             ]
         }
     ],
-    "recordingFile" : {
+    "recordingFile": {
         "fileName": "cd1a2ef5-d0cc-11e8-9955-000c29dd7443_(20181015225107784).wav",
         "checksum": {
             "type": "SHA-256",
@@ -23,8 +23,8 @@
         }
     },
     "vendor": {
-        "type":"voicerecorder",
-        "profileid":"SEP000C293D54DF",
-        "archivedate":"2023-10-15"
+        "type": "voicerecorder",
+        "profileid": "SEP000C293D54DF",
+        "archivedate": "2023-10-15"
     }
 }

@@ -9,13 +9,13 @@
             "offset": "0",
             "duration": 4,
             "participants": [
-                { 
+                {
                     "address": "447458650571"
                 }
             ]
         }
     ],
-    "recordingFile" : {
+    "recordingFile": {
         "fileName": "6079949e-a962-4b6e-91b3-68c9fc37b91e_(20181016141025416).wav",
         "checksum": {
             "type": "SHA-256",
@@ -23,7 +23,7 @@
         }
     },
     "vendor": {
-        "type":"voicerecorder",
-        "archivedate":"2023-10-16"
+        "type": "voicerecorder",
+        "archivedate": "2023-10-16"
     }
 }
