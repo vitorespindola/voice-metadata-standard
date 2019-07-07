@@ -1,0 +1,46 @@
+{
+    "callRecordType": "Dialtone",
+    "callStartTime": "2018-10-16T05:59:30.108-0500",
+    "callDirection": "outgoing",
+    "callRecords": [
+        {
+            "universalCallID": "bd7280f0-975e-4ae7-9037-320b9b11d6f8",
+            "startTime": "2018-10-16T05:59:30.108-0500",
+            "endTime": "2018-10-16T05:59:52.040-0500",
+            "offset": "0",
+            "duration": 4,
+            "participants": [
+                {
+                    "address": "447458643171@comitfs.com"
+                },
+                {
+                    "address": "447437459343@65.36.59.145"
+                }
+            ]
+        }
+    ],
+    "recordingFile": {
+        "fileName": "bd7280f0-975e-4ae7-9037-320b9b11d6f8-merge.wav",
+        "checksum": {
+            "type": "SHA-256",
+            "hash": "f0498196a06423efcd2ab6f3bfc6fd310e7865b48e792620ef37ff0a525bd256"
+        }
+    },
+    "vendor": {
+        "type": "telephony",
+        "platform": "tango",
+        "state": "Cleared",
+        "archivedate": "2018-10-16T05:59:52.040-0500",
+        "interestid": "1FD70326-5BC5C4E80003F52B-26AFE700",
+        "additionalProperty": [
+            {
+                "name": "desk",
+                "value": "4112"
+            },
+            {
+                "name": "mobile",
+                "value": "447458643171"
+            }
+        ]
+    }
+}
