@@ -7,7 +7,7 @@
     "definitions": {
         "participant": {
             "type": "object",
-            "description": "Specific details about a participant of the call",
+            "description": "Specific details about the (the other end of the call)",
             "additionalProperties": true,
             "properties": {
                 "name": {
